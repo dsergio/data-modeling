@@ -29,6 +29,8 @@ Observation Analysis (See also <a href = "https://github.com/dsergio/data-modeli
 
 ![](https://github.com/dsergio/data-modeling/blob/master/python/plots/aspect_elev.png?raw=true)
 
+### KMeans clusters with weather variables and 1 or more observations
+
 ![](https://github.com/dsergio/data-modeling/blob/master/python/plots/kmeansTempRH.png?raw=true)
 
 ![](https://github.com/dsergio/data-modeling/blob/master/python/plots/kmeansWindspeedDir.png?raw=true)
