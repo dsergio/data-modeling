@@ -226,17 +226,24 @@ def transformFileStage5b(transformPathStage5a, transformPathStage4, transformPat
 		elev = zone_elev_data.iloc[0]['ElevTL']
 
 		number_of_observations = []
+		most_frequent_aspect_arr = []
 		for index, row in zone_elev_data.iterrows():
 			date = row['CAIC_Weather_Date']
 			query = "`BC Zone` == '" + zone + "' and " + "ElevTL == '" + elev + "' and " + "CAIC_Weather_Date == '" + date + "'"
 			
 
 			query_result = observation_data.query(query)
+			if (query_result["Asp"].mode().size > 0):
+				most_frequent_aspect = query_result["Asp"].mode()[0]
+			else:
+				most_frequent_aspect = ''
+			most_frequent_aspect_arr.append(most_frequent_aspect)
 			number_of_observations.append(query_result.shape[0])
 			# print("query: " + query + " numberObservations: " + str(query_result.shape[0]))
 			# print(query_result)
 
 		zone_elev_data['numberObservations'] = number_of_observations
+		zone_elev_data['aspectMode'] = most_frequent_aspect_arr
 		zone_elev_data.to_csv(transformPathStage5b + "\\" + fileName)
 
 		# merged_data = pd.merge(zone_elev_data, observation_data, how='left', on=["CAIC_Weather_Date", "BC Zone", "ElevTL"])
