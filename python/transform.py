@@ -38,40 +38,40 @@ transformPathStage6 = "..\\transform\\stage6"
 #################
 # Stage 1
 # Description: TBD
-# extractFilesStage1 = [f for f in listdir(extractPathStage1) if isfile(join(extractPathStage1, f))]
-# for file in extractFilesStage1:
-# 	print("file: " + file)
-# 	transformFileStage1(file, extractPathStage1, transformPathStage1)
+extractFilesStage1 = [f for f in listdir(extractPathStage1) if isfile(join(extractPathStage1, f))]
+for file in extractFilesStage1:
+	print("file: " + file)
+	transformFileStage1(file, extractPathStage1, transformPathStage1)
 
 
 #################
 # Stage 2
 # Description: TBD
-# transformFileStage2(transformPathStage1, transformPathStage2)
+transformFileStage2(transformPathStage1, transformPathStage2)
 
 
 #################
 # Stage 3
 # Description: TBD
-# transformFileStage3(transformPathStage2, transformPathStage3)
+transformFileStage3(transformPathStage2, transformPathStage3)
 
 
 #################
 # Stage 4
 # Description: TBD
-# transformFileStage4(transformPathStage3, transformPathStage4)
+transformFileStage4(transformPathStage3, transformPathStage4)
 
 
 #################
 # Stage 5a
 # Description: TBD
-# transformFileStage5a(observationExtractStage1File, transformPathStage4, transformPathStage5a)
+transformFileStage5a(observationExtractStage1File, transformPathStage4, transformPathStage5a)
 
 
 #################
 # Stage 5b
 # Description: TBD
-# transformFileStage5b(transformPathStage5a, transformPathStage4, transformPathStage5b)
+transformFileStage5b(transformPathStage5a, transformPathStage4, transformPathStage5b)
 
 
 #################

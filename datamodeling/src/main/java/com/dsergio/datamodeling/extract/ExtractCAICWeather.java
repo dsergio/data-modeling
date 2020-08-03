@@ -73,7 +73,7 @@ public class ExtractCAICWeather extends ExtractBase implements IExtract {
 	
 	private void getCAICWeatherData(String date) {
 		
-		String fileName = "../extract/stage1/weatherdata_" + date + ".csv";
+		String fileName = "../extract/weather/stage1/weatherdata_" + date + ".csv";
 		String baseUrl = "https://avalanche.state.co.us/caic/obs_stns/zones.php?date=" + date + "+11&stnlink=daily&flag=off&area=caic&span=6&unit=m";
 
 		URL urlObj = null;

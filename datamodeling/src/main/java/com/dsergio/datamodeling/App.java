@@ -8,8 +8,8 @@ public class App {
 	
     public static void main( String[] args ) {
     	
-    	LocalDate start = LocalDate.of(2018, 1, 1);
-		LocalDate end = LocalDate.of(2018, 2, 1);
+    	LocalDate start = LocalDate.of(2017, 12, 1);
+		LocalDate end = LocalDate.of(2018, 4, 1);
 		List<Integer> allowedMonths = new ArrayList<Integer>();
 		allowedMonths.add(1);
 		allowedMonths.add(2);
