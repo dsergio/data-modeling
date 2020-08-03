@@ -9,7 +9,10 @@ from numpy import nan
 from os import listdir
 from os.path import isfile, join
 
-
+"""
+Stage 1
+Resolve missing values and group weather station values by mean
+"""
 def transformFileStage1(extractFile, extractPath, transformPath):
 
 	fileName = extractPath + "\\" + extractFile
@@ -77,7 +80,10 @@ def transformFileStage1(extractFile, extractPath, transformPath):
 	weather_date_zone.to_csv(fileNameOutput)
 
 
-
+"""
+Stage 2
+Put all dates from stage1 into one CSV file
+"""
 def transformFileStage2(transformPathStage1, transformPathStage2):
 
 	transformFilesStage1 = [f for f in listdir(transformPathStage1) if isfile(join(transformPathStage1, f))]
@@ -102,7 +108,10 @@ def transformFileStage2(transformPathStage1, transformPathStage2):
 	outputDataFrame.to_csv(fileNameOutput)
 
 
-
+"""
+Stage 3
+Separate - this time by Zone and Elevation
+"""
 def transformFileStage3(transformPathStage2, transformPathStage3):
 
 	alldates_data = pd.read_csv(transformPathStage2 + "\\all_dates.csv")
@@ -122,7 +131,10 @@ def transformFileStage3(transformPathStage2, transformPathStage3):
 	   group.to_csv(transformPathStage3 + "\\" + zone + "_" + elev + ".csv")
 
 
-
+"""
+Stage 4
+Calculate 'storm' and 'days_since_storm' metrics and append to each CSV
+"""
 def transformFileStage4(transformPathStage3, transformPathStage4):
 
 	transformFilesStage3 = [f for f in listdir(transformPathStage3) if isfile(join(transformPathStage3, f))]
@@ -135,8 +147,9 @@ def transformFileStage4(transformPathStage3, transformPathStage4):
 
 		storm_rows = []
 		for index, row in zone_elev_data.iterrows():
-			print("date: " + row['CAIC_Weather_Date'] + " zone: " + row['BC Zone'] + " Sno24: " + str(row['Sno24']) + " row['Sno24'] > 0.5: " + str(row['Sno24'] > 0.5))
-			if (row['Sno24'] > 0.5):
+			# print("date: " + row['CAIC_Weather_Date'] + " zone: " + row['BC Zone'] + " Sno24: " + str(row['Sno24']) + " row['Sno24'] > 0.5: " + str(row['Sno24'] > 0.5))
+			
+			if (row['Sno24'] > 0.99): # heuristic 'storm' threshold -- TODO find a better way to do this
 				storm_rows.append("yes")
 			else:
 				storm_rows.append("no")
@@ -159,6 +172,10 @@ def transformFileStage4(transformPathStage3, transformPathStage4):
 		zone = zone.replace("/", "-")
 		zone_elev_data.to_csv(transformPathStage4 + "\\" + zone + "_" + elev + ".csv")
 
+"""
+Stage 5a
+Resolve differences in Zone names for observation data
+"""
 def transformFileStage5a(observationExtractStage1, transformPathStage4, transformPathStage5a):
 	observation_data = pd.read_csv(observationExtractStage1)
 
@@ -191,6 +208,10 @@ def transformFileStage5a(observationExtractStage1, transformPathStage4, transfor
 
 	observation_data.to_csv(transformPathStage5a + "\\observation_data.csv")
 
+"""
+Stage 5b
+Using weather data, query observation data (similar to join except get count -- I'm not sure how to do this in Python)
+"""
 def transformFileStage5b(transformPathStage5a, transformPathStage4, transformPathStage5b):
 
 	observation_data = pd.read_csv(transformPathStage5a + "\\observation_data.csv")
@@ -212,7 +233,7 @@ def transformFileStage5b(transformPathStage5a, transformPathStage4, transformPat
 
 			query_result = observation_data.query(query)
 			number_of_observations.append(query_result.shape[0])
-			print("query: " + query + " numberObservations: " + str(query_result.shape[0]))
+			# print("query: " + query + " numberObservations: " + str(query_result.shape[0]))
 			# print(query_result)
 
 		zone_elev_data['numberObservations'] = number_of_observations
@@ -227,6 +248,10 @@ def transformFileStage5b(transformPathStage5a, transformPathStage4, transformPat
 		# merged_data.to_csv(transformPathStage5 + "\\" + fileName)
 
 
+"""
+Stage 6
+Combine all data again into a single CSV file
+"""
 def transformFileStage6(transformPathStage5b, transformPathStage6):
 
 	transformFilesStage5b = [f for f in listdir(transformPathStage5b) if isfile(join(transformPathStage5b, f))]
@@ -244,6 +269,6 @@ def transformFileStage6(transformPathStage5b, transformPathStage6):
 			outputDataFrame = outputDataFrame.append(zone_elev_weather_obs_data)
 
 
-	# outputDataFrame = outputDataFrame.drop(outputDataFrame.columns[[0]], axis=1)
+	outputDataFrame = outputDataFrame.drop(outputDataFrame.columns[[0, 1, 2, 3]], axis=1)
 	fileNameOutput = transformPathStage6 + "\\all_weather_obs_dates.csv"
 	outputDataFrame.to_csv(fileNameOutput)
