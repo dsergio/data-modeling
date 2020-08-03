@@ -10,7 +10,7 @@ See Java data collection app <a href = "https://github.com/dsergio/data-modeling
 
 ### Transform
 
-See Python scripts <a href = "https://github.com/dsergio/data-modeling/tree/master/python">here</a> \
+See Python scripts <a href = "https://github.com/dsergio/data-modeling/tree/master/python">here</a>
 
 ### Load
 
