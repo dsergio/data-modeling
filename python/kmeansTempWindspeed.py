@@ -26,7 +26,7 @@ for col in weather_observation_data.columns:
 query = "numberObservations > 0"
 query_result = weather_observation_data.query(query)
 
-col_list = ["Temp", "RH"]
+col_list = ["Temp", "Spd"]
 query_result = query_result[col_list]
 
 print(query_result)
@@ -35,9 +35,9 @@ kmeans = KMeans(n_clusters=3).fit(query_result)
 centroids = kmeans.cluster_centers_
 print(centroids)
 
-plt.scatter(query_result['Temp'], query_result['RH'], c= kmeans.labels_.astype(float), s=50, alpha=0.5)
+plt.scatter(query_result['Temp'], query_result['Spd'], c= kmeans.labels_.astype(float), s=50, alpha=0.5)
 plt.scatter(centroids[:, 0], centroids[:, 1], c='red', s=50)
 plt.xlabel("Temperature")
-plt.ylabel("Relative Humidity")
-plt.title("KMeans Temp / RH")
-plt.savefig(".\\plots\\kmeans.png")
+plt.ylabel("Wind Speed")
+plt.title("KMeans Temp / Spd")
+plt.savefig(".\\plots\\kmeansTempSpd.png")
