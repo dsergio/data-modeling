@@ -1,7 +1,7 @@
 """
 Author: David Sergio
 
-Elevation/Aspect Distribution Analysis
+Elevation/Aspect/Rsize/Type Distribution Analysis
 """
 
 import numpy as np

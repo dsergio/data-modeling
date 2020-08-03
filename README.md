@@ -23,4 +23,6 @@ The data can then be imported into RapidMiner or R/Python for
 
 ### Analysis
 
-TBD
+Observation Analysis
+
+![](https://github.com/dsergio/data-modeling/blob/master/python/plots/aspect.png?raw=true)
