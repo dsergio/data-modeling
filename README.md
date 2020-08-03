@@ -23,6 +23,8 @@ The data can then be imported into RapidMiner or R/Python for
 
 ### Analysis
 
-Observation Analysis
+Observation Analysis (See also <a href = "https://github.com/dsergio/data-modeling/tree/master/python/plots">here</a>)
 
 ![](https://github.com/dsergio/data-modeling/blob/master/python/plots/aspect.png?raw=true)
+
+![](https://github.com/dsergio/data-modeling/blob/master/python/plots/aspect_elev.png?raw=true)
