@@ -28,3 +28,5 @@ Observation Analysis (See also <a href = "https://github.com/dsergio/data-modeli
 ![](https://github.com/dsergio/data-modeling/blob/master/python/plots/aspect.png?raw=true)
 
 ![](https://github.com/dsergio/data-modeling/blob/master/python/plots/aspect_elev.png?raw=true)
+
+![](https://github.com/dsergio/data-modeling/blob/master/python/plots/kmeans.png?raw=true)
