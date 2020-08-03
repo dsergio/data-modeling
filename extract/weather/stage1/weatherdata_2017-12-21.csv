@@ -1,0 +1,323 @@
+CAIC_Weather_Date,BC Zone,Station,ElevTL,Elev,Temp,MxTp,MnTp,DewP,RH,Spd,Dir,Gst,Pcp1,Pcp24,PcpAc,Sno24,SWE24,SnoHt,SWE,Provider
+2017-12-21,Steamboat,Range South,<TL,1928,1,8,-6,?,?,?,?,?,?,?,?,?,?,?,?,MesoWest
+2017-12-21,Steamboat,Steamboat Springs 1,<TL,2042,-6,6,-6,?,?,?,?,?,?,?,?,?,?,?,?,HADS
+2017-12-21,Steamboat,U40-Steamboat (040W,<TL,2066,-5,7,-6,-7,84,16,25,23,0.00,0.03,?,?,?,?,?,CODOT
+2017-12-21,Steamboat,Steamboat Sprngs,<TL,2096,-7,5,-8,-9,88,11,220,?,?,?,?,?,?,?,?,METAR
+2017-12-21,Steamboat,Steamboat Springs 0,<TL,2150,?,?,?,?,?,?,?,?,?,0.08,?,1.3,0.08,2.5,?,CoCoRaHS
+2017-12-21,Steamboat,Steamboat Springs 1,<TL,2163,?,?,?,?,?,?,?,?,?,?,?,1.3,0.05,?,?,CoCoRaHS
+2017-12-21,Steamboat,Wolcott 2.3 N CO,<TL,2181,?,?,?,?,?,?,?,?,?,0.00,?,?,?,0.0,?,CoCoRaHS
+2017-12-21,Steamboat,Gypsum,<TL,2237,2,8,-3,-5,61,3,323,6,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Steamboat,Clark 0.7 NW CO,<TL,2239,?,?,?,?,?,?,?,?,?,?,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Steamboat,Hangman,<TL,2388,1,6,-5,-7,56,3,171,14,?,0.00,?,?,?,?,?,RAWS
+2017-12-21,Steamboat,Yampa Ranger Statio,<TL,2402,-7,7,-7,?,?,?,?,?,?,?,?,?,?,?,?,HADS
+2017-12-21,Steamboat,Trapper North,<TL,2426,-8,6,-8,?,?,?,?,?,?,?,?,?,?,?,?,UPR
+2017-12-21,Steamboat,Dry Lake,<TL,2560,-6,7,-6,-7,89,3,213,6,?,?,0.25,?,?,35.6,9.40,SNOTEL
+2017-12-21,Steamboat,Dry Lake,<TL,2565,-8,7,-8,-10,84,8,221,13,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Steamboat,Elk River,<TL,2652,-10,7,-10,?,?,?,?,?,?,?,0.00,?,?,35.6,9.40,SNOTEL
+2017-12-21,Steamboat,Elkhead Divide,<TL,2676,-8,6,-8,?,?,?,?,?,?,?,0.51,?,?,33.0,6.86,SNOTEL
+2017-12-21,Steamboat,Lynx Pass,<TL,2707,-4,5,-6,?,?,?,?,?,?,?,0.25,?,?,22.9,6.60,SNOTEL
+2017-12-21,Steamboat,Walden 16.3 WSW CO,<TL,2717,?,?,?,?,?,?,?,?,?,?,?,0.5,?,?,?,CoCoRaHS
+2017-12-21,Steamboat,Porcupine Cr,<TL,2725,-7,3,-9,-8,89,14,20,21,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Steamboat,Bear River,<TL,2768,?,?,?,?,?,?,?,?,?,?,?,?,?,33.0,9.65,SNOTEL
+2017-12-21,Steamboat,Crosho,<TL,2774,-5,7,-5,?,?,?,?,?,?,?,0.00,?,?,22.9,5.59,SNOTEL
+2017-12-21,Steamboat,Kremmling 10.9 NW C,<TL,2789,?,?,?,?,?,?,?,?,?,0.00,?,0.5,?,?,?,CoCoRaHS
+2017-12-21,Steamboat,Columbine,<TL,2792,-6,6,-7,?,?,?,?,?,?,?,?,?,?,43.2,8.64,SNOTEL
+2017-12-21,Steamboat,Buffalo Park,<TL,2817,-7,2,-7,?,?,?,?,?,?,?,0.00,?,?,40.6,11.68,SNOTEL
+2017-12-21,Steamboat,Lost Dog,<TL,2841,-5,3,-6,?,?,?,?,?,?,?,0.76,?,?,53.3,11.94,SNOTEL
+2017-12-21,Steamboat,Zirkel,<TL,2847,-7,5,-9,?,?,?,?,?,?,?,0.25,?,?,43.2,13.46,SNOTEL
+2017-12-21,Steamboat,Burro Mountain,<TL,2865,-8,3,-8,?,?,?,?,?,?,?,0.00,?,?,20.3,4.32,SNOTEL
+2017-12-21,Steamboat,Rabbit Ears,<TL,2865,-8,5,-8,?,?,?,?,?,?,?,0.00,?,?,40.6,9.91,SNOTEL
+2017-12-21,Steamboat,Steamboat Lake Stat,<TL,2871,-8,5,-8,-10,86,4,163,10,?,?,?,?,?,10.7,?,CAIC
+2017-12-21,Steamboat,Willow Creek Pass,<TL,2908,-8,3,-8,?,?,?,?,?,?,?,0.00,?,?,48.3,13.97,SNOTEL
+2017-12-21,Steamboat,Trapper Lake,<TL,2957,-7,2,-7,?,?,?,?,?,?,?,0.00,?,?,?,5.59,SNOTEL
+2017-12-21,Steamboat,Ripple Creek,TL,3152,-7,1,-7,?,?,?,?,?,?,?,0.00,?,?,66.0,18.54,SNOTEL
+2017-12-21,Steamboat,Tower,TL,3201,-10,1,-10,?,?,?,?,?,?,?,?,?,?,?,23.37,SNOTEL
+2017-12-21,Steamboat,Storm Peak Observat,TL,3210,-7,-1,-10,-10,79,3,122,3,?,?,?,?,?,?,?,DRI
+2017-12-21,Steamboat,Bison Lake,TL,3316,-6,-2,-8,?,?,?,?,?,?,?,0.00,?,?,?,10.67,SNOTEL
+2017-12-21,Gunnison,Paonia Reservoir nr,<TL,1975,0,7,-1,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,Gunnison,Blue Mesa Dam nr Gu,<TL,2240,2,7,-3,?,?,?,?,?,?,?,0.03,?,?,?,?,HADS
+2017-12-21,Gunnison,Gunnison Arpt,<TL,2339,3,3,-6,-6,54,15,90,?,0.00,?,?,?,?,?,?,METAR
+2017-12-21,Gunnison,CW1428 Gunnison,<TL,2352,2,6,-4,-8,50,0,86,?,?,?,?,?,?,?,?,APRSWXNET
+2017-12-21,Gunnison,Gunnison 6.6 N CO,<TL,2422,?,?,?,?,?,?,?,?,?,0.10,?,1.5,0.10,?,?,CoCoRaHS
+2017-12-21,Gunnison,Almont,<TL,2440,1,6,-5,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,Gunnison,Parlin 2.7 ESE CO,<TL,2562,?,?,?,?,?,?,?,?,?,0.00,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Gunnison,Crested Butte,<TL,2701,-1,5,-5,?,?,?,?,?,?,?,?,?,?,?,?,HADS
+2017-12-21,Gunnison,Crested Butte (RWIS,<TL,2721,-2,4,-5,-10,54,14,175,19,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Gunnison,Silver Jack Reservo,<TL,2721,?,?,?,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,Gunnison,Taylor Park,<TL,2795,-21,5,-23,?,?,?,?,?,?,?,0.13,?,?,?,?,HADS
+2017-12-21,Gunnison,Kettle Ponds,<TL,2841,-3,?,?,-8,72,6,166,?,?,?,?,?,?,?,?,RMBL
+2017-12-21,Gunnison,Billy Barr House,<TL,2905,-4,?,?,-8,77,6,157,?,?,?,?,?,?,?,?,RMBL
+2017-12-21,Gunnison,Park Cone,<TL,2926,-2,5,-5,?,?,?,?,?,?,?,0.25,?,?,?,7.11,SNOTEL
+2017-12-21,Gunnison,Judd Falls,<TL,2974,-4,?,?,-8,72,8,208,?,?,?,?,?,?,?,?,RMBL
+2017-12-21,Gunnison,Crested Butte 6.2 N,<TL,2991,?,?,?,?,?,?,?,?,?,0.05,?,1.3,0.05,22.9,?,CoCoRaHS
+2017-12-21,Gunnison,Mexican Cut,TL,3094,-9,?,?,-10,90,6,109,?,?,?,?,?,?,?,?,RMBL
+2017-12-21,Gunnison,Butte,TL,3097,-3,3,-5,?,?,?,?,?,?,?,0.00,?,?,20.3,5.08,SNOTEL
+2017-12-21,Gunnison,Irwin Guides StudyP,TL,3170,-7,1,-8,-9,82,4,150,12,0.00,?,0.00,?,?,9.9,?,IrwinGuide
+2017-12-21,Gunnison,Taylor Park,TL,3201,-2,5,-8,-7,66,8,132,14,?,0.13,0.13,?,?,?,?,RAWS
+2017-12-21,Gunnison,Upper Taylor,TL,3243,-4,2,-8,?,?,?,?,?,?,?,0.25,?,?,27.9,7.37,SNOTEL
+2017-12-21,Gunnison,Snodgrass Mt,TL,3332,-7,?,?,-10,83,1,272,?,?,?,?,?,?,?,?,RMBL
+2017-12-21,Gunnison,Crested Butte Mtn R,TL,3444,-9,-2,-11,?,?,4,343,14,?,?,?,?,?,?,?,CBMR
+2017-12-21,Sangre,Cotopaxi 4.9 SE CO,<TL,2194,?,?,?,?,?,?,?,?,?,?,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Sangre,Cotopaxi 4.8 SSE CO,<TL,2256,?,?,?,?,?,?,?,?,?,0.00,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Sangre,Copper Gulch,<TL,2266,-6,13,-6,-8,84,10,26,21,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Sangre,Great Sand Dunes 7.,<TL,2349,?,?,?,?,?,?,?,?,?,0.00,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Sangre,Sand Dunes,<TL,2537,2,10,-1,-9,46,11,225,42,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Sangre,CW7195 Westcliffe,<TL,2640,-6,8,-6,-9,77,0,128,5,?,0.00,?,?,?,?,?,APRSWXNET
+2017-12-21,Sangre,La Veta Pass (160W2,<TL,2882,-9,5,-9,-9,94,14,335,26,?,?,?,?,?,?,?,CODOT
+2017-12-21,Sangre,Medano Pass,<TL,2932,-1,5,-3,?,?,?,?,?,?,?,0.00,?,?,2.5,0.76,SNOTEL
+2017-12-21,Sangre,Hayden Pass,TL,3267,-9,0,-9,?,?,?,?,?,?,?,0.51,?,?,7.6,3.56,MesoWest
+2017-12-21,Sangre,South Colony,TL,3292,-6,2,-6,?,?,?,?,?,?,?,0.00,?,?,17.8,4.57,SNOTEL
+2017-12-21,Sawatch,Nathrop 3.3 WSW CO,<TL,2427,?,?,?,?,?,?,?,?,?,?,?,0.0,?,0.0,?,CoCoRaHS
+2017-12-21,Sawatch,Buena Vista 1.5 WNW,<TL,2458,?,?,?,?,?,?,?,?,?,?,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Sawatch,Salida 9.1 NW CO,<TL,2537,?,?,?,?,?,?,?,?,?,?,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Sawatch,CW3993 Poncha Sprin,<TL,2563,-2,9,-6,-6,74,2,42,5,?,0.00,?,?,?,?,?,APRSWXNET
+2017-12-21,Sawatch,Sargents,<TL,2582,1,8,-7,?,?,?,?,?,?,?,?,?,?,?,?,MesoWest
+2017-12-21,Sawatch,Sargents 0.3 NE CO,<TL,2627,?,?,?,?,?,?,?,?,?,?,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Sawatch,Red Deer,<TL,2660,-4,9,-4,-5,89,3,166,14,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Sawatch,Arkansas River at G,<TL,2717,?,?,?,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,Sawatch,Needle Creek,<TL,2741,1,6,-6,-11,43,18,149,35,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Sawatch,Jones Hill,<TL,2912,-7,8,-8,-10,80,3,58,10,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Sawatch,Lodge Pole Flats,<TL,2939,-3,8,-7,-8,70,8,174,21,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Sawatch,Cottonwood Pass,<TL,2995,-1,8,-2,-3,86,5,100,?,?,?,?,?,?,?,?,METAR
+2017-12-21,Sawatch,Leadville,TL,3026,-6,-6,-9,-9,77,17,180,?,?,?,?,?,?,?,?,METAR
+2017-12-21,Sawatch,Leadville 6.3 S CO,TL,3030,?,?,?,?,?,?,?,?,?,0.28,?,5.1,0.28,?,?,CoCoRaHS
+2017-12-21,Sawatch,CMC Leadville,TL,3056,-3,8,-8,-10,59,9,162,15,0.00,0.15,?,?,?,?,?,ColoMtnCol
+2017-12-21,Sawatch,Fairplay 2.7 WNW CO,TL,3100,?,?,?,?,?,?,?,?,?,0.03,?,0.8,0.03,14.0,?,CoCoRaHS
+2017-12-21,Sawatch,Rough and Tumble,TL,3158,-6,4,-7,?,?,?,?,?,?,?,0.00,?,?,?,2.54,SNOTEL
+2017-12-21,Sawatch,Twin Lake Tunnel nr,TL,3192,?,?,?,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,Sawatch,Saint Elmo,TL,3213,-5,3,-6,?,?,?,?,?,?,?,0.00,?,?,30.5,8.38,MesoWest
+2017-12-21,Sawatch,Brumley,TL,3231,-5,5,-9,?,?,?,?,?,?,?,0.51,?,?,27.9,5.33,SNOTEL
+2017-12-21,Sawatch,Michigan Creek,TL,3231,?,?,?,?,?,?,?,?,?,?,?,?,?,25.4,4.06,SNOTEL
+2017-12-21,Sawatch,Porphyry Creek,TL,3280,-3,2,-8,?,?,?,?,?,?,?,0.25,?,?,33.0,8.89,SNOTEL
+2017-12-21,Sawatch,Alma 3.1 N CO,TL,3315,?,?,?,?,?,?,?,?,?,0.08,?,1.8,?,?,?,CoCoRaHS
+2017-12-21,Sawatch,WA5BGT Fairplay,TL,3365,-7,3,-10,-11,70,0,123,?,?,?,?,?,?,?,?,APRSWXNET
+2017-12-21,Sawatch,Buckskin Joe,TL,3399,-7,4,-7,?,?,?,?,?,?,?,0.51,?,?,?,8.38,SNOTEL
+2017-12-21,Sawatch,Monarch Pass (050E2,TL,3438,-7,-1,-11,-13,65,23,160,37,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Sawatch,Sargents Mesa,>TL,3514,-7,3,-11,?,?,?,?,?,?,?,?,?,?,15.2,3.30,MesoWest
+2017-12-21,Sawatch,CMC Mt Zion,>TL,3594,-9,0,-11,-11,89,2,255,10,?,?,?,?,?,?,?,ColoMtnCol
+2017-12-21,Sawatch,Cottonwood Pass,>TL,3597,-9,-2,-11,-11,90,7,128,18,?,?,?,?,?,61.0,?,CAIC
+2017-12-21,Sawatch,Monarch Mountain,>TL,3643,-10,-3,-12,-12,88,13,124,25,?,?,?,?,?,?,?,MonarchSA
+2017-12-21,Sawatch,Monarch Pass,>TL,3667,-7,0,-11,-10,79,21,190,33,?,?,?,?,?,?,?,METAR
+2017-12-21,Grand Mesa,Jay,<TL,1890,0,9,-1,-1,90,2,46,18,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Grand Mesa,DW1827 Mesa,<TL,2454,-7,6,-7,-8,87,0,14,?,?,?,?,?,?,?,?,APRSWXNET
+2017-12-21,Grand Mesa,Douglas Pass (139S0,<TL,2508,-11,2,-11,-12,94,52,5,66,?,?,?,?,?,?,?,CODOT
+2017-12-21,Grand Mesa,Overland Res,TL,3011,-5,1,-6,?,?,?,?,?,?,?,0.25,?,?,2.5,0.51,SNOTEL
+2017-12-21,Grand Mesa,Park Reservoir,TL,3036,-5,1,-6,?,?,?,?,?,?,?,0.51,?,?,17.8,3.56,SNOTEL
+2017-12-21,Grand Mesa,Mesa Lakes,TL,3048,-6,1,-7,?,?,?,?,?,?,?,0.00,?,?,?,1.78,SNOTEL
+2017-12-21,Grand Mesa,Cedaredge 10.5 NNW,TL,3170,?,?,?,?,?,?,?,?,?,0.46,?,5.8,?,?,?,CoCoRaHS
+2017-12-21,Grand Mesa,Grand Mesa-Skyway P,TL,3239,-9,-2,-10,-11,90,11,201,27,?,?,?,?,?,19.1,?,JPL
+2017-12-21,South San Juan,Durango (550N022),<TL,1982,1,9,-3,-6,62,2,60,8,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,South San Juan,Durango .35 E CO,<TL,1997,?,?,?,?,?,?,?,?,?,0.05,?,1.0,?,?,?,CoCoRaHS
+2017-12-21,South San Juan,Hesperus 13.3 SSW C,<TL,2038,?,?,?,?,?,?,?,?,?,0.05,?,1.5,?,1.3,?,CoCoRaHS
+2017-12-21,South San Juan,Dur-La Plata Arp,<TL,2038,-3,1,-3,-5,85,18,230,?,0.00,?,?,?,?,?,?,METAR
+2017-12-21,South San Juan,Durango 7.1 N CO,<TL,2052,?,?,?,?,?,?,?,?,?,0.03,?,0.8,0.25,?,?,CoCoRaHS
+2017-12-21,South San Juan,Durango 0.7 NNE CO,<TL,2113,?,?,?,?,?,?,?,?,?,?,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,South San Juan,CW6135 Bayfield,<TL,2127,-3,9,-3,-4,89,2,181,11,?,0.00,?,?,?,?,?,APRSWXNET
+2017-12-21,South San Juan,Bayfield 0.3 N CO,<TL,2130,?,?,?,?,?,?,?,?,?,?,?,2.5,?,?,?,CoCoRaHS
+2017-12-21,South San Juan,Bayfield 0.6 WSW CO,<TL,2131,?,?,?,?,?,?,?,?,?,0.10,?,3.6,?,3.8,?,CoCoRaHS
+2017-12-21,South San Juan,Durango 4.9 ESE CO,<TL,2145,?,?,?,?,?,?,?,?,?,0.05,?,1.3,?,1.3,?,CoCoRaHS
+2017-12-21,South San Juan,Pagosa Springs (160,<TL,2212,1,9,-2,-2,85,10,145,11,?,?,?,?,?,?,?,CODOT
+2017-12-21,South San Juan,Mesa Mtn,<TL,2249,-4,8,-4,-5,91,14,235,27,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,South San Juan,K9NRG Pagosa Spring,<TL,2256,-1,9,-2,-4,80,3,161,10,?,0.23,?,?,?,?,?,APRSWXNET
+2017-12-21,South San Juan,Devil Mtn,<TL,2274,-3,8,-3,-4,89,11,303,19,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,South San Juan,N6PTL Durango,<TL,2289,-4,6,-4,-7,81,3,222,18,?,0.00,?,?,?,?,?,APRSWXNET
+2017-12-21,South San Juan,Pagosa Springs,<TL,2334,-1,-1,-3,-2,88,21,180,?,?,?,?,?,?,?,?,METAR
+2017-12-21,South San Juan,Vallecito Res Bayfi,<TL,2339,-4,6,-4,?,?,?,?,?,?,?,0.10,?,?,?,?,HADS
+2017-12-21,South San Juan,Bayfield 7.0 N CO,<TL,2364,?,?,?,?,?,?,?,?,?,0.13,?,2.5,?,?,?,CoCoRaHS
+2017-12-21,South San Juan,Navajo Rvr at Bande,<TL,2420,-3,7,-3,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,South San Juan,Log Chute,<TL,2516,-4,4,-6,-8,77,13,213,27,?,0.00,?,?,?,?,?,RAWS
+2017-12-21,South San Juan,Sandoval Mesa,<TL,2588,-4,7,-4,-6,91,10,287,19,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,South San Juan,Cascade,<TL,2707,-3,4,-3,?,?,?,?,?,?,?,1.02,?,?,10.2,1.27,SNOTEL
+2017-12-21,South San Juan,Cascade #2,<TL,2719,-3,4,-3,?,?,?,?,?,?,?,?,?,?,7.6,1.78,SNOTEL
+2017-12-21,South San Juan,Scotch Creek,<TL,2774,-5,5,-6,?,?,?,?,?,?,?,0.51,?,?,?,0.76,SNOTEL
+2017-12-21,South San Juan,Pagosa Springs 9.1,<TL,2823,?,?,?,?,?,?,?,?,?,?,?,3.0,?,3.0,?,CoCoRaHS
+2017-12-21,South San Juan,Conejos Rvr Blo Pla,TL,3011,-5,2,-6,?,?,?,?,?,?,?,?,?,?,?,?,HADS
+2017-12-21,South San Juan,Mancos,TL,3048,-8,2,-9,?,?,?,?,?,?,?,0.51,?,?,15.2,0.51,SNOTEL
+2017-12-21,South San Juan,Cumbres Trestle,TL,3054,-5,3,-5,?,?,?,?,?,?,?,0.25,?,?,?,8.89,SNOTEL
+2017-12-21,South San Juan,Upper San Juan,TL,3088,-5,2,-5,?,?,?,?,?,?,?,0.76,?,?,?,6.10,SNOTEL
+2017-12-21,South San Juan,Wolf Creek Pass (16,TL,3169,-8,0,-8,-9,89,19,270,63,0.03,0.15,?,?,?,?,?,CODOT
+2017-12-21,South San Juan,Big Bear Park,TL,3170,-10,0,-10,-12,86,14,198,34,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,South San Juan,Coal Bank Pass,TL,3243,-9,-1,-9,-9,95,2,231,12,?,?,?,?,?,9.7,0.00,CAIC
+2017-12-21,South San Juan,Spud Mountain,TL,3249,-8,-1,-8,?,?,?,?,?,?,?,0.25,?,?,?,2.29,SNOTEL
+2017-12-21,South San Juan,Sharkstooth,TL,3268,-9,0,-9,?,?,?,?,?,?,?,0.25,?,?,20.3,2.79,SNOTEL
+2017-12-21,South San Juan,Columbus Basin,TL,3288,-9,1,-9,?,?,?,?,?,?,?,?,?,?,?,4.57,SNOTEL
+2017-12-21,South San Juan,Vallecito,TL,3316,-8,0,-8,?,?,?,?,?,?,?,0.00,?,?,?,1.27,SNOTEL
+2017-12-21,South San Juan,Lily Pond,TL,3353,-5,4,-7,?,?,?,?,?,?,?,0.00,?,?,20.3,8.13,SNOTEL
+2017-12-21,South San Juan,Wolf Creek Summit,TL,3353,-7,0,-7,?,?,?,?,?,?,?,0.25,?,?,?,12.45,SNOTEL
+2017-12-21,South San Juan,Stump Lakes,TL,3414,-10,-1,-10,?,?,?,?,?,?,?,0.00,?,?,25.4,4.57,SNOTEL
+2017-12-21,South San Juan,Middle Creek,TL,3429,-7,0,-8,?,?,?,?,?,?,?,0.51,?,?,?,4.83,SNOTEL
+2017-12-21,South San Juan,Wolf Creek Pass,>TL,3584,-10,-4,-11,-11,92,41,180,55,?,?,?,?,?,?,?,METAR
+2017-12-21,South San Juan,Wolf Creek Pass,>TL,3597,-11,-6,-11,-12,91,43,215,69,?,?,?,?,?,?,?,CAIC
+2017-12-21,Vail/Summit,Wolcott (070W155),<TL,2152,4,8,-4,?,?,3,210,5,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Vail/Summit,Mc Elroy/Kremmli,<TL,2259,2,11,0,-4,64,0,0,?,?,?,?,?,?,?,?,METAR
+2017-12-21,Vail/Summit,Dowd Jct (070E171),<TL,2366,3,7,-6,-4,56,3,30,6,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Vail/Summit,Elliot Ck Canal nr,<TL,2437,?,?,?,?,?,7,342,?,?,?,0.00,?,?,?,?,MesoWest
+2017-12-21,Vail/Summit,CW9352 Avon,<TL,2469,1,5,-3,-4,72,2,283,3,?,0.00,?,?,?,?,?,APRSWXNET
+2017-12-21,Vail/Summit,Beaver Ck Village,<TL,2591,0,4,-3,?,?,?,?,?,?,?,0.00,?,?,5.1,2.79,SNOTEL
+2017-12-21,Vail/Summit,CW9561 Kremmling,<TL,2629,-3,5,-6,-9,64,2,9,?,?,?,?,?,?,?,?,APRSWXNET
+2017-12-21,Vail/Summit,Vail 0.9 WNW CO,<TL,2684,?,?,?,?,?,?,?,?,?,0.00,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Vail/Summit,Silverthorne (RWIS),<TL,2703,-1,8,-4,-8,59,6,145,11,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Vail/Summit,Middle Fork Camp,<TL,2743,-1,8,-7,?,?,5,293,14,?,?,0.00,?,?,?,3.81,SNOTEL
+2017-12-21,Vail/Summit,Dillon 1E,<TL,2763,3,11,-1,?,?,?,?,?,?,?,0.00,?,?,?,?,MesoWest
+2017-12-21,Vail/Summit,Dowd Junction,<TL,2764,0,3,-6,-6,62,8,129,13,?,0.03,0.00,?,?,?,?,RAWS
+2017-12-21,Vail/Summit,Frisco 0.5 N CO,<TL,2790,?,?,?,?,?,?,?,?,?,0.00,?,0.3,?,7.6,?,CoCoRaHS
+2017-12-21,Vail/Summit,Summit Ranch,<TL,2865,-2,7,-4,?,?,?,?,?,?,?,0.00,?,?,10.2,4.83,SNOTEL
+2017-12-21,Vail/Summit,Breckenridge 0.9 NN,<TL,2866,?,?,?,?,?,?,?,?,?,?,?,1.3,?,?,?,CoCoRaHS
+2017-12-21,Vail/Summit,McCoy Park,<TL,2890,-2,5,-5,?,?,?,?,?,?,?,0.00,?,?,20.3,3.56,SNOTEL
+2017-12-21,Vail/Summit,Silverthorne 2.1 WS,<TL,2893,?,?,?,?,?,?,?,?,?,0.05,?,1.0,?,6.1,?,CoCoRaHS
+2017-12-21,Vail/Summit,Breckenridge 5S,TL,3118,0,8,-3,?,?,?,?,?,?,?,0.25,?,?,?,?,HADS
+2017-12-21,Vail/Summit,Vail Pass - CDOT Ya,TL,3124,-5,3,-6,-11,61,2,202,11,?,?,?,?,?,0.5,?,CAIC
+2017-12-21,Vail/Summit,Vail Mountain,TL,3139,-3,3,-6,?,?,?,?,?,?,?,0.00,?,?,10.2,4.06,SNOTEL
+2017-12-21,Vail/Summit,Vail SA - Mid-Mtn,TL,3140,-4,2,-9,-9,70,1,88,4,?,?,?,0.0,?,43.9,?,VailResort
+2017-12-21,Vail/Summit,Copper Mountain,TL,3201,-3,5,-7,?,?,?,?,?,?,?,0.00,?,?,25.4,6.35,SNOTEL
+2017-12-21,Vail/Summit,Elliot Ridge,TL,3206,-5,1,-6,?,?,?,?,?,?,?,0.00,?,?,?,6.35,MesoWest
+2017-12-21,Vail/Summit,Vail Pass (070E191),TL,3228,-5,3,-9,-15,46,16,177,21,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Vail/Summit,Vail SA - China Bow,TL,3362,-7,-1,-9,-11,71,8,150,19,?,?,?,?,?,?,?,VailResort
+2017-12-21,Vail/Summit,EJT West Portal (07,TL,3375,-7,1,-11,-9,80,2,165,3,0.00,0.05,?,?,?,?,?,CODOT
+2017-12-21,Vail/Summit,Grizzly Peak,TL,3384,-5,3,-9,?,?,?,?,?,?,?,0.25,?,?,53.3,11.18,SNOTEL
+2017-12-21,Vail/Summit,Vail SA - Blue Sky,TL,3386,-8,-1,-9,-13,67,12,179,21,?,?,?,?,?,?,?,VailResort
+2017-12-21,Vail/Summit,Vail SA - PHQ,TL,3428,-8,-2,-9,-10,87,3,173,10,?,?,?,?,?,?,?,VailResort
+2017-12-21,Vail/Summit,Fremont Pass (091S0,TL,3445,-8,3,-11,-21,34,10,150,21,0.00,0.08,?,?,?,?,?,CODOT
+2017-12-21,Vail/Summit,Fremont Pass,TL,3475,-6,3,-8,?,?,?,?,?,?,?,0.25,?,?,?,13.72,SNOTEL
+2017-12-21,Vail/Summit,Hoosier Pass,TL,3475,-5,4,-8,?,?,4,174,10,?,?,0.76,?,?,40.6,11.43,SNOTEL
+2017-12-21,Vail/Summit,A-Basin SA-MidMtn,>TL,3554,-10,0,-12,-13,76,?,?,?,?,?,?,5.6,?,50.8,?,A-BasinSA
+2017-12-21,Vail/Summit,A-Basin SA-Pali,>TL,3633,-11,-2,-12,-14,75,9,196,21,?,?,?,?,?,?,?,A-BasinSA
+2017-12-21,Vail/Summit,A-Basin SA-Summit,>TL,3798,-13,-3,-13,-14,93,20,145,35,?,?,?,?,?,?,?,A-BasinSA
+2017-12-21,Vail/Summit,Breck SA - Peak 8,>TL,3962,-13,-5,-14,-17,69,11,250,21,?,?,?,?,?,?,?,VailResort
+2017-12-21,Aspen,Glenwood Springs 5.,<TL,1929,?,?,?,?,?,?,?,?,?,0.00,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Aspen,Basalt-Holland Hill,<TL,2026,1,10,-2,-2,75,11,305,31,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Aspen,Old Snowmass (082E0,<TL,2103,1,8,-2,-4,71,24,115,34,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Aspen,Snowmass Canyon (08,<TL,2124,1,8,-3,-4,72,14,5,29,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Aspen,Carbondale 4.6 NNE,<TL,2124,?,?,?,?,?,?,?,?,?,?,?,0.0,?,0.0,?,CoCoRaHS
+2017-12-21,Aspen,Brush Creek (082W03,<TL,2246,3,10,-3,-6,52,26,315,35,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Aspen,Basalt 5.8 E CO,<TL,2350,?,?,?,?,?,?,?,?,?,?,?,1.0,?,1.3,?,CoCoRaHS
+2017-12-21,Aspen,Aspen-Cemetery Lane,<TL,2373,3,10,-3,-9,41,2,220,10,0.00,0.00,?,?,?,?,?,CODOT
+2017-12-21,Aspen,Ruedi Reservoir,<TL,2374,0,5,-2,?,?,?,?,?,?,?,?,?,?,?,?,HADS
+2017-12-21,Aspen,Frying Pan River at,<TL,2377,1,6,-4,?,?,?,?,?,?,?,?,?,?,?,?,HADS
+2017-12-21,Aspen,Aspen/Sardy Field,<TL,2382,3,3,-4,-7,48,11,310,?,0.00,?,?,?,?,?,?,METAR
+2017-12-21,Aspen,The Crown,<TL,2531,-2,6,-4,-5,83,13,290,21,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Aspen,Snowmass SA Base,<TL,2626,-1,6,-4,-8,60,?,?,?,?,?,?,?,?,?,?,AspenSkiCo
+2017-12-21,Aspen,Nast Lake,<TL,2652,1,5,-5,?,?,?,?,?,?,?,0.51,?,?,10.2,3.30,SNOTEL
+2017-12-21,Aspen,McClure Pass,<TL,2675,-2,5,-4,?,?,?,?,?,?,?,0.25,?,?,?,0.25,SNOTEL
+2017-12-21,Aspen,North Lost Trail,<TL,2804,-4,4,-4,?,?,?,?,?,?,?,0.00,?,?,?,3.81,SNOTEL
+2017-12-21,Aspen,Kiln,<TL,2926,-1,4,-6,?,?,?,?,?,?,?,0.25,?,?,15.2,4.06,SNOTEL
+2017-12-21,Aspen,Chapman Tunnel,TL,3082,-2,3,-9,?,?,?,?,?,?,?,0.25,?,?,30.5,7.11,MesoWest
+2017-12-21,Aspen,Aspen SA - Gents Ba,TL,3094,-4,3,-8,-11,60,?,?,?,?,?,?,?,?,0.0,?,AspenSkiCo
+2017-12-21,Aspen,Ivanhoe,TL,3170,-4,3,-8,?,?,?,?,?,?,?,0.00,?,?,48.3,11.18,SNOTEL
+2017-12-21,Aspen,Snowmass SA MidMtn,TL,3177,-6,2,-8,?,?,?,?,?,?,?,?,1.0,?,26.7,?,AspenSkiCo
+2017-12-21,Aspen,Independence Pass,TL,3231,-5,4,-9,?,?,?,?,?,?,?,0.25,?,?,35.6,7.87,SNOTEL
+2017-12-21,Aspen,Sunlight,TL,3232,-7,-1,-10,-9,86,0,0,?,?,?,?,?,?,?,?,METAR
+2017-12-21,Aspen,Schofield Pass,TL,3262,-6,2,-7,?,?,?,?,?,?,?,0.00,?,?,454.7,18.03,SNOTEL
+2017-12-21,Aspen,Aspen Highlands Cld,TL,3300,-7,0,-9,-12,69,?,?,?,?,?,0.00,0.0,?,46.2,?,AspenSkiCo
+2017-12-21,Aspen,Aspen SA - Gents To,TL,3409,-7,1,-10,-12,71,?,?,?,?,?,?,?,?,28.7,?,AspenSkiCo
+2017-12-21,Aspen,Snowmass SA Elk Cam,TL,3468,-6,1,-10,-10,75,7,159,24,?,?,?,?,?,?,?,AspenSkiCo
+2017-12-21,Aspen,Snowmass SA Timberl,>TL,3512,-9,-2,-10,-11,83,?,?,?,0.00,0.05,?,0.0,?,69.6,?,AspenSkiCo
+2017-12-21,Aspen,Aspen Highlands Log,>TL,3543,-9,-2,-11,-12,78,17,121,30,?,?,?,?,?,?,?,AspenSkiCo
+2017-12-21,Aspen,Snowmass SA Big Bur,>TL,3637,-9,-2,-11,-11,87,8,113,16,?,?,?,?,?,?,?,AspenSkiCo
+2017-12-21,Aspen,Snowmass SA Baldy,>TL,3872,-12,-6,-13,-15,83,15,131,30,?,?,?,?,?,?,?,AspenSkiCo
+2017-12-21,North San Juan,Dallas Creek nr Rid,<TL,2128,?,?,?,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,North San Juan,Placerville,<TL,2143,2,12,-3,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,North San Juan,La Garita Creek nr,<TL,2448,?,?,?,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,North San Juan,Portland Precip,<TL,2463,?,?,?,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,North San Juan,Ouray .23 NNW CO,<TL,2525,?,?,?,?,?,?,?,?,?,?,?,2.5,?,5.1,?,CoCoRaHS
+2017-12-21,North San Juan,EW6300 Lake City,<TL,2638,-1,9,-3,-6,67,3,304,10,?,0.00,?,?,?,?,?,APRSWXNET
+2017-12-21,North San Juan,Telluride Valley Fl,<TL,2649,-5,8,-6,-8,77,18,276,23,?,?,?,?,?,10.4,?,MTNSTUDIES
+2017-12-21,North San Juan,Rico,<TL,2722,-6,4,-7,-10,72,5,164,21,0.00,?,0.10,?,?,5.3,?,CAIC
+2017-12-21,North San Juan,Telluride (145S070),<TL,2767,-4,7,-6,-7,78,2,150,21,0.00,0.03,?,?,?,?,?,CODOT
+2017-12-21,North San Juan,Telluride,<TL,2769,-4,-3,-6,-9,66,9,50,?,?,?,?,?,?,?,?,METAR
+2017-12-21,North San Juan,Silverton (WS) (550,<TL,2823,-5,4,-6,-9,70,11,205,32,0.00,0.08,?,?,?,?,?,CODOT
+2017-12-21,North San Juan,West Fork Dallas Pr,<TL,2823,?,?,?,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,North San Juan,Upper Rio Grande,<TL,2865,-2,6,-4,?,?,?,?,?,?,?,0.00,?,?,?,1.27,SNOTEL
+2017-12-21,North San Juan,Red Mountain (550N0,<TL,2869,-6,6,-7,-7,91,6,5,14,0.00,0.15,?,?,?,?,?,CODOT
+2017-12-21,North San Juan,Monument,<TL,2909,-6,5,-6,-7,94,?,?,?,?,?,0.05,?,?,5.3,?,CAIC
+2017-12-21,North San Juan,Lone Cone,<TL,2926,-5,2,-7,?,?,?,?,?,?,?,0.51,?,?,15.2,2.03,SNOTEL
+2017-12-21,North San Juan,Idarado,<TL,2987,-3,4,-5,?,?,?,?,?,?,?,0.76,?,?,17.8,3.56,SNOTEL
+2017-12-21,North San Juan,Cochetopa Pass,TL,3054,-4,4,-7,?,?,?,?,?,?,?,0.00,?,?,2.5,1.27,SNOTEL
+2017-12-21,North San Juan,Mineral Creek,TL,3060,-5,6,-6,?,?,?,?,?,?,?,0.25,?,?,?,3.56,SNOTEL
+2017-12-21,North San Juan,El Diente Peak,TL,3109,-7,2,-7,?,?,?,?,?,?,?,0.76,?,?,20.3,3.56,SNOTEL
+2017-12-21,North San Juan,Lizard Head Pass,TL,3109,-6,3,-7,?,?,?,?,?,?,?,0.00,?,?,5.1,5.08,SNOTEL
+2017-12-21,North San Juan,Ironton Precip nr O,TL,3109,?,?,?,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,North San Juan,Blue Park,TL,3179,-5,5,-8,-11,61,16,196,37,?,0.05,0.05,?,?,?,?,RAWS
+2017-12-21,North San Juan,Molas Lake,TL,3201,-7,1,-7,?,?,?,?,?,?,?,0.51,?,?,15.2,4.57,SNOTEL
+2017-12-21,North San Juan,Molas Pass,TL,3292,-9,1,-9,-10,91,20,221,47,?,?,?,?,?,2.3,?,CAIC
+2017-12-21,North San Juan,PBasin Telluride Sk,TL,3338,-9,0,-9,?,?,?,?,?,?,?,?,8.1,?,146.1,?,TELLURIDE
+2017-12-21,North San Juan,Swamp Angel,TL,3368,-8,1,-9,-10,84,5,302,20,0.00,?,0.71,?,?,29.0,?,CSAS
+2017-12-21,North San Juan,Moon Pass,TL,3396,-5,3,-8,?,?,?,?,?,?,?,0.00,?,?,?,2.03,MesoWest
+2017-12-21,North San Juan,Governor Basin Prec,TL,3399,?,?,?,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,North San Juan,Red Mountain Pass,TL,3399,-7,2,-8,?,?,?,?,?,?,?,0.25,?,?,?,8.38,SNOTEL
+2017-12-21,North San Juan,Slumgullion,>TL,3524,-7,3,-9,?,?,?,?,?,?,?,0.00,?,?,?,6.10,SNOTEL
+2017-12-21,North San Juan,Beartown,>TL,3536,-8,2,-9,?,?,?,?,?,?,?,0.00,?,?,12.7,7.62,SNOTEL
+2017-12-21,North San Juan,Mt Abrams,>TL,3609,-11,-2,-11,-13,86,22,216,53,?,?,?,?,?,?,?,CAIC
+2017-12-21,North San Juan,PHQ Telluride Ski R,>TL,3612,-10,0,-10,-12,87,6,106,20,?,?,?,9.7,?,33.3,?,TELLURIDE
+2017-12-21,North San Juan,Senator Beck,>TL,3714,-12,-3,-12,-13,93,21,167,51,?,?,?,?,?,?,?,CSAS
+2017-12-21,North San Juan,Dynamo Telluride Sk,>TL,3731,-13,-4,-13,-15,88,10,79,27,?,?,?,?,?,?,?,TELLURIDE
+2017-12-21,North San Juan,Putney,>TL,3757,-12,-4,-12,-14,88,41,184,66,?,?,?,?,?,?,?,CSAS
+2017-12-21,North San Juan,Eagle,>TL,3917,-13,-5,-14,-14,91,38,153,82,?,?,?,?,?,?,?,CAIC
+2017-12-21,North San Juan,Kendall Mt,>TL,3982,-14,-7,-14,-15,90,21,140,55,?,?,?,?,?,?,?,CAIC
+2017-12-21,Front Range,Cedarmont (034W069),<TL,2138,-9,11,-9,-12,77,?,?,?,?,?,?,?,?,?,?,CODOT
+2017-12-21,Front Range,Livermore 10.5 WSW,<TL,2195,?,?,?,?,?,?,?,?,?,0.33,?,7.6,?,7.6,?,CoCoRaHS
+2017-12-21,Front Range,Livermore 8.5 WSW C,<TL,2247,?,?,?,?,?,?,?,?,?,?,?,101.6,?,?,?,CoCoRaHS
+2017-12-21,Front Range,Estes Park 0.6 SSE,<TL,2327,?,?,?,?,?,?,?,?,?,?,?,2.8,?,2.5,?,CoCoRaHS
+2017-12-21,Front Range,CW3065 Estes Park,<TL,2347,-8,11,-9,-11,79,0,78,0,?,0.00,?,?,?,?,?,APRSWXNET
+2017-12-21,Front Range,Genesee (070W253),<TL,2357,-12,22,-34,-13,94,3,335,11,0.00,0.03,?,?,?,?,?,CODOT
+2017-12-21,Front Range,Estes Park,<TL,2384,-7,9,-10,-11,70,10,73,14,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Front Range,Floyd Hill (070E247,<TL,2391,-12,12,-12,-14,89,14,102,21,0.00,0.08,?,?,?,?,?,CODOT
+2017-12-21,Front Range,Nederland 4.8 ENE C,<TL,2391,?,?,?,?,?,?,?,?,?,0.58,?,5.6,?,5.1,?,CoCoRaHS
+2017-12-21,Front Range,Evergreen 6.5 WSW C,<TL,2407,?,?,?,?,?,?,?,?,?,?,?,3.6,?,3.8,?,CoCoRaHS
+2017-12-21,Front Range,Estes Park 3.3 SSW,<TL,2434,?,?,?,?,?,?,?,?,?,?,?,3.6,0.13,3.6,?,CoCoRaHS
+2017-12-21,Front Range,Evergreen 5 W CO,<TL,2440,?,?,?,?,?,?,?,?,?,0.23,?,2.8,?,2.5,?,CoCoRaHS
+2017-12-21,Front Range,Nederland 4.2 E CO,<TL,2442,?,?,?,?,?,?,?,?,?,0.46,?,6.1,?,6.1,?,CoCoRaHS
+2017-12-21,Front Range,Evergreen 3.5 W CO,<TL,2465,?,?,?,?,?,?,?,?,?,?,?,3.0,0.25,3.0,0.25,CoCoRaHS
+2017-12-21,Front Range,Estes Park 2.2 NE C,<TL,2467,?,?,?,?,?,?,?,?,?,0.25,?,3.8,?,3.8,?,CoCoRaHS
+2017-12-21,Front Range,Redfeather,<TL,2504,-8,9,-12,-12,73,3,90,6,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Front Range,Allens Park 1.5 ESE,<TL,2536,?,?,?,?,?,?,?,?,?,?,?,3.8,?,3.8,?,CoCoRaHS
+2017-12-21,Front Range,Ward 4.6 NE CO,<TL,2577,?,?,?,?,?,?,?,?,?,?,?,3.8,?,5.1,?,CoCoRaHS
+2017-12-21,Front Range,Nederland 2.61 NNE,<TL,2582,?,?,?,?,?,?,?,?,?,?,?,3.8,?,3.8,?,CoCoRaHS
+2017-12-21,Front Range,Estes Park 1.8 S CO,<TL,2583,?,?,?,?,?,?,?,?,?,0.23,?,6.1,?,6.1,?,CoCoRaHS
+2017-12-21,Front Range,Harbison Meadow,<TL,2591,-3,6,-13,-6,79,6,1,14,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Front Range,North Fork South Pl,<TL,2614,-5,12,-8,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,Front Range,Copeland Lake,<TL,2621,-8,8,-9,?,?,?,?,?,?,?,0.25,?,?,5.1,0.76,SNOTEL
+2017-12-21,Front Range,Rollinsville 0.1 N,<TL,2621,?,?,?,?,?,?,?,?,?,?,?,4.8,0.48,?,?,CoCoRaHS
+2017-12-21,Front Range,South Platte River,<TL,2625,-7,10,-13,?,?,?,?,?,?,?,0.00,?,?,?,?,HADS
+2017-12-21,Front Range,KG0HM-2 Crystal Lak,<TL,2634,-9,8,-12,-12,79,0,355,?,?,?,?,?,?,?,?,APRSWXNET
+2017-12-21,Front Range,Stillwater Creek,<TL,2658,1,8,-4,?,?,?,?,?,?,?,0.25,?,?,12.7,6.10,SNOTEL
+2017-12-21,Front Range,CW5469 Tabernash,<TL,2684,-4,6,-7,-7,83,3,151,6,?,0.00,?,?,?,?,?,APRSWXNET
+2017-12-21,Front Range,PSF4 555,<TL,2688,-9,11,-9,-11,86,2,36,11,?,0.00,?,?,?,?,?,RAWS
+2017-12-21,Front Range,Lily Lake (007N007),<TL,2731,-11,7,-12,-12,88,2,10,10,?,?,?,?,?,?,?,CODOT
+2017-12-21,Front Range,Phantom Valley,<TL,2752,-1,6,-6,?,?,?,?,?,?,?,0.25,?,?,15.2,8.38,SNOTEL
+2017-12-21,Front Range,Bailey 6.4 NNW CO,<TL,2764,?,?,?,?,?,?,?,?,?,0.20,?,3.8,?,?,?,CoCoRaHS
+2017-12-21,Front Range,Lake George 7.5 WSW,<TL,2766,?,?,?,?,?,?,?,?,?,?,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Front Range,Ward (072W044),<TL,2789,-11,7,-12,-15,72,0,0,0,?,?,?,?,?,?,?,CODOT
+2017-12-21,Front Range,CW5038 Ward,<TL,2808,-12,7,-12,-16,76,2,119,6,?,0.00,?,?,?,?,?,APRSWXNET
+2017-12-21,Front Range,Lake George 7.2 WNW,<TL,2822,?,?,?,?,?,?,?,?,?,0.00,?,0.0,0.00,0.0,0.00,CoCoRaHS
+2017-12-21,Front Range,CW5066 Gilpin Co.,<TL,2856,-13,7,-13,-15,87,3,232,6,?,0.00,?,?,?,?,?,APRSWXNET
+2017-12-21,Front Range,Pickle Gulch,<TL,2859,-8,9,-12,-13,66,8,161,16,?,0.00,0.00,?,?,?,?,RAWS
+2017-12-21,Front Range,Hourglass Lake,<TL,2859,-9,5,-11,?,?,?,?,?,?,?,0.25,?,?,?,6.86,MesoWest
+2017-12-21,Front Range,Bear Lake,<TL,2896,-9,3,-10,?,?,?,?,?,?,?,1.02,?,?,43.2,6.35,SNOTEL
+2017-12-21,Front Range,Idaho Springs 4.7 S,<TL,2896,?,?,?,?,?,?,?,?,?,?,?,5.3,?,?,?,CoCoRaHS
+2017-12-21,Front Range,Wilkerson Pass (024,<TL,2906,-11,7,-11,-12,88,14,95,16,?,?,?,?,?,?,?,CODOT
+2017-12-21,Front Range,Wild Basin,<TL,2914,-10,4,-10,?,?,?,?,?,?,?,?,?,?,38.1,11.68,SNOTEL
+2017-12-21,Front Range,Guffey 5.5 W CO,<TL,2949,?,?,?,?,?,?,?,?,?,?,?,0.0,?,?,?,CoCoRaHS
+2017-12-21,Front Range,Lake Eldora,<TL,2957,-10,6,-11,?,?,?,?,?,?,?,0.00,?,?,?,6.86,SNOTEL
+2017-12-21,Front Range,Bakerville (070W221,<TL,2995,-9,6,-11,-11,91,14,65,18,?,?,?,?,?,?,?,CODOT
+2017-12-21,Front Range,Crn Site nr Boulder,<TL,2996,-13,4,-14,-16,84,?,?,?,?,?,?,?,?,?,?,MesoWest
+2017-12-21,Front Range,Niwot,TL,3021,-10,4,-11,?,?,?,?,?,?,?,0.00,?,?,20.3,6.35,SNOTEL
+2017-12-21,Front Range,Joe Wright,TL,3085,-8,4,-11,?,?,?,?,?,?,?,0.25,?,?,48.3,14.48,SNOTEL
+2017-12-21,Front Range,Fool Creek,TL,3109,-6,2,-10,-7,93,1,39,3,?,?,?,?,?,0.5,?,RMRS
+2017-12-21,Front Range,Deadman Hill,TL,3115,-9,3,-13,?,?,?,?,?,?,?,0.25,?,?,86.4,20.07,SNOTEL
+2017-12-21,Front Range,Never Summer,TL,3134,-8,2,-8,?,?,?,?,?,?,?,0.25,?,?,55.9,17.53,SNOTEL
+2017-12-21,Front Range,University Camp,TL,3139,-8,4,-12,?,?,?,?,?,?,?,?,?,?,38.1,9.65,SNOTEL
+2017-12-21,Front Range,Hermans Gulch (070W,TL,3152,-8,4,-12,-10,99,6,95,10,0.00,?,?,?,?,?,?,CODOT
+2017-12-21,Front Range,Jones Pass,TL,3170,-3,4,-7,?,?,?,?,?,?,?,0.00,?,?,38.1,6.35,SNOTEL
+2017-12-21,Front Range,US 6 Loveland Pass,TL,3218,16,23,7,?,?,6,115,8,0.00,0.13,?,?,?,?,?,CODOT
+2017-12-21,Front Range,Cameron Pass,TL,3223,-8,1,-14,-9,91,2,255,6,?,?,?,?,?,55.4,?,CAIC
+2017-12-21,Front Range,Echo Lake,TL,3231,-10,4,-12,?,?,?,?,?,?,?,0.00,?,?,15.2,4.57,SNOTEL
+2017-12-21,Front Range,Willow Park,TL,3262,-9,3,-13,?,?,?,?,?,?,?,1.02,?,?,50.8,11.94,SNOTEL
+2017-12-21,Front Range,Lake Irene,TL,3262,-5,3,-11,?,?,?,?,?,?,?,0.25,?,?,50.8,11.68,SNOTEL
+2017-12-21,Front Range,Jackwhacker Gulch,TL,3341,-5,5,-10,?,?,?,?,?,?,?,0.25,?,?,30.5,6.35,SNOTEL
+2017-12-21,Front Range,Bottle Peak,TL,3414,-9,0,-10,-9,95,8,148,10,?,?,?,?,?,?,?,RMRS
+2017-12-21,Front Range,Berthoud Summit,TL,3444,-6,4,-11,?,?,?,?,?,?,?,0.25,?,?,43.2,9.91,SNOTEL
+2017-12-21,Front Range,Loveland Basin,TL,3475,-8,1,-11,?,?,?,?,?,?,?,0.76,?,?,71.1,14.48,SNOTEL
+2017-12-21,Front Range,Berthoud Pass,>TL,3615,-10,-1,-15,-11,91,14,205,23,?,?,?,?,?,?,?,CAIC
+2017-12-21,Front Range,Loveland Pass,>TL,3624,-10,-3,-14,-11,93,7,201,16,?,?,?,?,?,?,?,CAIC
+2017-12-21,Front Range,Berthoud Pass,>TL,3807,-12,-3,-14,-18,61,13,180,26,?,?,?,?,?,?,?,METAR
