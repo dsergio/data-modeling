@@ -32,6 +32,7 @@ Observation Distribution Analysis (See also <a href = "https://github.com/dsergi
 ![](https://github.com/dsergio/data-modeling/blob/master/python/plots/aspect.png?raw=true)
 
 ![](https://github.com/dsergio/data-modeling/blob/master/python/plots/aspect_elev.png?raw=true)
+<i>TL: Treeline, >TL: Elevation higher than Treeline, <TL: Elevation lower than Treeline</i>
 
 ### KMeans clusters with weather variables and 1 or more observations
 
