@@ -43,6 +43,6 @@ Observation Distribution Analysis (See also <a href = "https://github.com/dsergi
 
 ### Dashboard
 
-The "Days Since Storm" metric shows a modest correlation with number of Observations, only for <TL (less than Treeline) elevation in this limited dataset
+The "days since storm" metric shows a potential negative correlation with number of observations, particularly for <TL and TL (less than treeline and treeline) elevation in this limited dataset. A "storm" is defined by 24 snowfall exceeding a threshold. It would be really interesting to try changing this threshold and testing this with a larger dataset.
 
 ![](https://github.com/dsergio/data-modeling/blob/master/CAICDashboard.png?raw=true)
