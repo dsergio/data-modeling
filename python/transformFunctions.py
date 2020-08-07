@@ -279,3 +279,18 @@ def transformFileStage6(transformPathStage5b, transformPathStage6):
 	outputDataFrame = outputDataFrame.drop(outputDataFrame.columns[[0, 1, 2, 3]], axis=1)
 	fileNameOutput = transformPathStage6 + "\\all_weather_obs_dates.csv"
 	outputDataFrame.to_csv(fileNameOutput)
+
+	query = "ElevTL == '<TL'"
+	query_result = outputDataFrame.query(query)
+	fileNameOutput = transformPathStage6 + "\\all_weather_obs_dates_lessThanTL.csv"
+	query_result.to_csv(fileNameOutput)
+
+	query = "ElevTL == 'TL'"
+	query_result = outputDataFrame.query(query)
+	fileNameOutput = transformPathStage6 + "\\all_weather_obs_dates_TL.csv"
+	query_result.to_csv(fileNameOutput)
+
+	query = "ElevTL == '>TL'"
+	query_result = outputDataFrame.query(query)
+	fileNameOutput = transformPathStage6 + "\\all_weather_obs_dates_greaterThanTL.csv"
+	query_result.to_csv(fileNameOutput)

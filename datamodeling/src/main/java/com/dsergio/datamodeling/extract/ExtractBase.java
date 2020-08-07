@@ -1,6 +1,6 @@
 package com.dsergio.datamodeling.extract;
 
-public abstract class ExtractBase {
+public abstract class ExtractBase implements IExtract {
 
 	protected IExtractObject extractObject;
 
@@ -8,6 +8,7 @@ public abstract class ExtractBase {
 		super();
 	}
 	
+	@Override
 	public abstract IExtractObject extractData();
 
 }
