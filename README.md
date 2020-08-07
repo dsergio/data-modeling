@@ -2,7 +2,7 @@
 
 This project uses ETL to generate datasets from open-source weather and avalanche observation data sources from the Colorado Avalanche Information Center (CAIC)
 
-One goal is to produce a data model that attempts to demonstrate relationships between avalanche characteristics, occurrences, and/or frequency and weather metrics, such as temperature and wind speed. I'm using some weather metrics out-of-the-box such as temperature and relative humidity, and I'm developing derived metrics, such as "days since storm event". It worth noting that snow science is tricky and nuanced, and it's not feasible (or prudent) to attempt to predict avalanches accurately. However, the amount of data makes such a project a lot of fun and really interesting from a data science perspective. 
+One goal is to produce a data model that attempts to demonstrate relationships between avalanche characteristics, occurrences, and/or frequency and weather metrics, such as temperature and wind speed. I'm using some weather metrics out-of-the-box such as temperature and relative humidity, and I'm developing derived metrics, such as "days since storm event". It's worth noting that snow science is tricky and nuanced. However, the amount of data makes such a project a lot of fun and really interesting from a data science perspective. 
 
 These datasets can also enable data characterization analyses and cluster analysis. For example, it's interesting to demonstrate how avalanche occurrences tend to cluster on specific aspects (N/S/E/W), and weather conditions. 
 
