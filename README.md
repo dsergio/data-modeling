@@ -40,3 +40,9 @@ Observation Distribution Analysis (See also <a href = "https://github.com/dsergi
 ![](https://github.com/dsergio/data-modeling/blob/master/python/plots/kmeansTempRH.png?raw=true)
 
 ![](https://github.com/dsergio/data-modeling/blob/master/python/plots/kmeansWindspeedDir.png?raw=true)
+
+### Dashboard
+
+The "Days Since Storm" metric shows a modest correlation with number of Observations, only for <TL (less than Treeline) elevation in this limited dataset
+
+![](https://github.com/dsergio/data-modeling/blob/master/CAICDashboard.png?raw=true)
